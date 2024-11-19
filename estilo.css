@@ -1,0 +1,38 @@
+body{
+    background-image: url('img/fundo.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    clear: both;
+}
+#logo{
+    width: 250px;
+    height: 200px;
+}
+#cabecalho{
+    text-align: right;
+}
+#menu1{
+    font-size: 20px;
+    padding: 20px;
+    text-align: left;
+    float: left;
+}
+#conteudo{
+    font-size: 1.2em;
+}
+.galeria{
+    margin-left: 80px;
+    margin-bottom: 100px;
+    margin-top: 25px;
+    text-align: center;
+    height: 650px;
+    width: 500px;
+    float:left;
+}
+#rodape{
+    margin: 50px 100px 0px 100px;
+    padding: auto;
+    text-align: center;
+    clear: both;
+}
